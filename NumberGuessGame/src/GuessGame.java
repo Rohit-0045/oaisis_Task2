@@ -12,7 +12,7 @@ public class GuessGame {
     }
 
     public int guessNumber() {
-        System.out.println(randomNo);
+//        System.out.println(randomNo);
         for (i = 0; i < 5; i++) {
             System.out.println("\nGuess The Number");
             Scanner sc = new Scanner(System.in);

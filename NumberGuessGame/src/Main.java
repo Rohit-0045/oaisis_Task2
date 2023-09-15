@@ -41,5 +41,4 @@ public class Main {
         System.out.print("\n"+"*".repeat(30));
         System.out.println("\nYour total score is : " + totalScore +"/"+((round-1)*10));
     }
-
 }
